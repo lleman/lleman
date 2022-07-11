@@ -26,5 +26,6 @@ My name is Laman and I'm a React Native Developer.
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="graphlql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
 <img align="left" alt="React" width="26px" src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" />
-<img align="left" alt="Redux" width="26px" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" />
+<img align="left" alt="Redux" width="26px" src="https://mobx.js.org/assets/mobx.png" />
+<img align="left" alt="Redux" width="26px" src="[https://seeklogo.com/images/R/redux-logo-285374-seeklogo.com.png](https://seeklogo.com/vector-logo/285374/mobx)" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
